@@ -28,7 +28,4 @@ To run this notebook, you need the following Python libraries:
 - WordCloud
 - Sastrawi (for Indonesian text preprocessing)
 
-You can install the required libraries using pip:
 
-```bash
-pip install pandas matplotlib seaborn scikit-learn wordcloud Sastrawi
